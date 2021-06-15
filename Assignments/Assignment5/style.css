@@ -1,0 +1,13 @@
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+.thumbnail .caption {
+    padding: 9px;
+    color: #333;
+}
