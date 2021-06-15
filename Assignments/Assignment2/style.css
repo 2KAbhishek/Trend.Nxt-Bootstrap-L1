@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    font-size: large;
+    font-family: "Times New Roman", Times, serif;
+}
+p::first-letter {
+    font-size: 300%;
+    color: red;
+}
