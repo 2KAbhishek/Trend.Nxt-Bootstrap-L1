@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Assignment 7</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link
+            rel="stylesheet"
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"
+        />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+        <style></style>
+        <script>
+            function urlencode(str) {
+                document.getElementById("result").innerHTML =
+                    encodeURIComponent(str);
+            }
+        </script>
+    </head>
+    <body
+        onload="urlencode('https://getbootstrap.com/docs/4.1/content/images/')"
+    >
+        <div class="container">
+            <table class="table table-bordered">
+                <thead></thead>
+                <tbody>
+                    <tr>
+                        <td>Message</td>
+                        <td>
+                            https://getbootstrap.com/docs/4.1/content/images/
+                        </td>
+                        <td id="result"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
