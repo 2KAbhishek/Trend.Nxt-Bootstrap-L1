@@ -5,3 +5,8 @@ th {
 tr {
     color: grey;
 }
+
+td:nth-child(odd),
+th:nth-child(odd) {
+    background-image: url("lights.jpg");
+}
