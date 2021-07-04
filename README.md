@@ -25,12 +25,6 @@
 
 <h2>Short sweet headline with 🎇🎉</h2>
 
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/Trend.Nxt-Bootstrap-L1/master/images/screenshot.jpg" alt="Trend.Nxt-Bootstrap-L1 Demo" style="width:100%">
-  <br/>
-  <figcaption>Trend.Nxt-Bootstrap-L1 Screenshot</figcaption>
-</figure>
-
 </div>
 
 ## Inspiration
