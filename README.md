@@ -23,7 +23,7 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Bootstrap L1 Solutions 🕸🎨</h2>
+<h3>Bootstrap L1 Solutions 🕸🎨</h3>
 
 </div>
 
